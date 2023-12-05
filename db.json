@@ -1,21 +1,25 @@
 {
   "currencies": [
     {
+      "id": 123,
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
     },
     {
+      "id": 124,
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
     },
     {
+      "id": 125,
       "code": "JPY",
       "name": "Japanese Yen",
       "symbol": "¥"
     },
     {
+      "id": 126,
       "code": "GBP",
       "name": "British Pound Sterling",
       "symbol": "£"
